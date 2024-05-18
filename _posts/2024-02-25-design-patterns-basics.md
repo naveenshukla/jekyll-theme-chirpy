@@ -19,4 +19,4 @@ author: Devvv.in
 - बिंदु 3
 
 [यहाँ क्लिक करें](https://www.example.com) और देखें।
-![Something](https://upload.wikimedia.org/wikipedia/commons/3/3a/Ravivarmapress.jpg)
+![Sample Image](/assets/img/peacock.jpg)
