@@ -1,8 +1,8 @@
 ---
 title: यह एक उदाहरण है कि आप कैसे हिंदी में लिख सकते हैं।
 date: 2024-02-25 10:00:00 +0000
-categories: [Software Engineering, Design Patterns]
-tags: [design-patterns, software-development]
+categories: [लिख सकते हैं, लिख सकते हैं]
+tags: [लिख सकते हैं, लिख सकते हैं]
 author: Devvv.in
 ---
 
